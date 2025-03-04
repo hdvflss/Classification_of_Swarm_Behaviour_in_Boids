@@ -8,7 +8,7 @@ This project explores how swarm behavior is perceived by humans and applies Supe
 
 ## Dataset
 The dataset used in this project comes from Kaggle, originally sourced from the University of New South Wales (UNSW):  
-[Swarm Behaviour Classification Dataset](https://www.kaggle.com/datasets/deepcontractor/swarm-behaviour-classification/data)
+[Swarm Behaviour Classification Dataset](https://www.kaggle.com/datasets/deepcontractor/swarm-behaviour-classification/data)  
 Since the dataset is too large for GitHub, please accquire it directly from Kaggle.
 
 ### Dataset Details:
